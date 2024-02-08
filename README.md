@@ -5,5 +5,5 @@ midi2xml - A parser of midi file written on PHP. This is a piece of an old proje
 It has no code quality to be called a software and has no value in this aspect but might be of interest for someone who is up to code a midi parser or the first binary parser on PHP. 
 
 ### license
-under conideration  - if you interested let me know which one we gonna place on it MIT or GPL?.
+MIT
 
